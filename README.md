@@ -17,3 +17,5 @@ https://www.freecodecamp.org/news/redux-for-beginners/
 https://www.codingame.com/playgrounds/8894/redux-tutorial-for-beginners
 
 https://www.simplilearn.com/tutorials/reactjs-tutorial/react-with-redux
+
+https://redux-toolkit.js.org/api/createslice
