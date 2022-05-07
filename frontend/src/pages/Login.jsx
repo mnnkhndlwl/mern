@@ -34,7 +34,6 @@ function Login() {
   }, [user, isError, isSuccess, message, navigate, dispatch])
 
   const onChange = (e) => {
-    e.preventDefault();
     setFormData((prevState) => ({
       ...prevState,
       [e.target.name]: e.target.value,
